@@ -1,0 +1,303 @@
+
+
+#############################################
+               History File
+  Time&Date : Thu May 28 19:26:56 2015
+
+#############################################
+<=========[Encryption]=========>
+word is : yok
+ccode is : gvr
+key is : 32
+<=========[Decryption]=========>
+ccode is :gvr
+key is : 32
+word is : yok
+<==============================>
+
+
+#############################################
+               History File
+  Time&Date : Thu May 28 19:40:37 2015
+
+#############################################
+
+
+#############################################
+               History File
+  Time&Date : Thu May 28 19:42:11 2015
+
+#############################################
+<=========[Encryption]=========>
+word is : project
+ccode is : ybaslnd
+key is : 9
+<=========[Decryption]=========>
+ccode is :ybaslnd
+key is : 9
+word is : project
+<=========[Decryption]=========>
+ccode is :ybaslnd
+key is : 10
+word is : oqnidbs
+<=========[Decryption]=========>
+ccode is :ybaslndr
+key is : 9
+word is : projecti
+
+
+#############################################
+               History File
+  Time&Date : Thu May 28 19:44:31 2015
+
+#############################################
+<=========[Encryption]=========>
+word is : project
+ccode is : ybxslnd
+key is : 9
+<=========[Decryption]=========>
+ccode is :ybaslnd
+key is : 9
+word is : prqject
+<=========[Encryption]=========>
+word is : yok
+ccode is : yok
+key is : 25
+<=========[Encryption]=========>
+<= Invalid Input: Stop Process =>
+<===============================>
+<==============================>
+
+
+#############################################
+               History File
+  Time&Date : Thu May 28 20:20:30 2015
+
+#############################################
+<=========[Encryption]=========>
+word is : yok
+ccode is : sie
+key is : 19
+<=========[Decryption]=========>
+ccode is :sie
+key is : 19
+word is : yok
+<=========[Decryption]=========>
+ccode is :sie
+key is : 19
+word is : yok
+<=========[Decryption]=========>
+ccode is :sie
+key is : 19
+word is : yok
+<=========[Decryption]=========>
+ccode is :sie
+key is : 19
+word is : yok
+<=========[Encryption]=========>
+word is : yok
+ccode is : sie
+key is : 44
+<=========[Encryption]=========>
+word is : yok
+ccode is : jyu
+key is : 60
+<==============================>
+
+
+#############################################
+               History File
+  Time&Date : Thu May 28 20:22:20 2015
+
+#############################################
+<=========[Encryption]=========>
+<= Invalid Input: Stop Process =>
+<===============================>
+<=========[Encryption]=========>
+word is : yok
+ccode is : crl
+key is : 78
+<==============================>
+
+
+#############################################
+               History File
+  Time&Date : Sat May 30 19:02:13 2015
+
+#############################################
+<=========[Encryption]=========>
+word is : yok
+ccode is : etp
+key is : 55
+<=========[Decryption]=========>
+ccode is :etp
+key is : 11
+word is : sie
+<=========[Decryption]=========>
+ccode is :yok
+key is : 55
+word is : tjf
+<=========[Decryption]=========>
+ccode is :etp
+key is : 55
+word is : yok
+
+
+#############################################
+               History File
+  Time&Date : Tue Jun 02 17:48:22 2015
+
+#############################################
+<=========[Encryption]=========>
+word is : yok
+ccode is : etp
+key is : 55
+<=========[Decryption]=========>
+ccode is :etp
+key is : 55
+word is : yok
+<==============================>
+
+
+#############################################
+               History File
+  Time&Date : Thu Sep 03 02:28:22 2015
+
+#############################################
+<=========[Encryption]=========>
+word is : yok
+ccode is : kxv
+key is : 61
+<=========[Decryption]=========>
+ccode is :kxv
+key is : 61
+word is : yok
+<=========[Decryption]=========>
+ccode is :kxv
+key is : 61
+word is : ym
+<==============================>
+
+
+#############################################
+               History File
+  Time&Date : Thu Sep 03 02:29:07 2015
+
+#############################################
+<=========[Decryption]=========>
+ccode is :kxv
+key is : 61
+word is : yok
+<=========[Decryption]=========>
+ccode is :kxv
+key is : 61
+word is : y
+<=========[Encryption]=========>
+word is : hello
+ccode is : wtbbe
+key is : 40
+<=========[Decryption]=========>
+ccode is :wtbbe
+key is : 40
+word is : hello
+<=========[Decryption]=========>
+ccode is :wtbbe
+key is : 40
+word is : hell
+<==============================>
+
+
+#############################################
+               History File
+  Time&Date : Thu Sep 03 02:30:37 2015
+
+#############################################
+<=========[Decryption]=========>
+ccode is :ytbbe
+key is : 40
+word is : jello
+<=========[Decryption]=========>
+ccode is :wtbbe
+key is : 40
+word is : hello
+<=========[Decryption]=========>
+ccode is :wtbbe
+key is : 40
+word is : hello
+<=========[Encryption]=========>
+word is : hello
+ccode is : nipps
+key is : 4
+<=========[Decryption]=========>
+ccode is :nipps
+key is : 4
+word is : hello
+<=========[Encryption]=========>
+word is : hello
+ccode is : khoor
+key is : 53
+<=========[Decryption]=========>
+ccode is :khoor
+key is : 53
+word is : hello
+<=========[Decryption]=========>
+ccode is :wtbbe
+key is : 40
+word is : hello
+<=========[Decryption]=========>
+ccode is :wtbbe
+key is : 40
+word is : "ello
+<==============================>
+
+
+#############################################
+               History File
+  Time&Date : Thu Sep 03 02:32:46 2015
+
+#############################################
+<=========[Decryption]=========>
+ccode is :wtbbe
+key is : 49
+word is : xuccf
+<=========[Decryption]=========>
+ccode is :wtbbe
+key is : 40
+word is : hello
+<=========[Decryption]=========>
+ccode is :wtbbe
+key is : 40
+word is : ello
+<==============================>
+
+
+#############################################
+               History File
+  Time&Date : Thu Sep 03 02:33:49 2015
+
+#############################################
+<=========[Encryption]=========>
+word is : hello
+ccode is : yvddg
+key is : 42
+<=========[Decryption]=========>
+ccode is :yvddg
+key is : 42
+word is : hello
+<==============================>
+
+
+#############################################
+               History File
+  Time&Date : Wed Apr 05 13:51:02 2017
+
+#############################################
+<=========[Encryption]=========>
+word is : yok
+ccode is : ukg
+key is : 71
+<=========[Decryption]=========>
+ccode is :ukg
+key is : 71
+word is : yok
+<==============================>
